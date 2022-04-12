@@ -1,0 +1,103 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    background: linear-gradient(0deg, rgba(105, 105, 105, 0.4), rgba(105, 105, 105, 0.4)), url(img/pexels-madison-inouye-1054020.jpg)
+   
+    
+    
+}
+
+h1{
+
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 3em;
+    margin-bottom: 50px;
+    text-shadow: 2px 2px #777777;
+}
+
+section{
+
+    width: 200px;
+    height: 350px;
+    background-color: #4F4F4F;
+    margin: auto;
+    padding: 10px;
+        
+        border: 5px solid #131313;
+
+}
+
+#red{
+
+    width: 90px;
+    height: 90px;
+    background: #9e0000;
+    border: 3px solid #9e0000;
+
+    border-radius: 50%;
+    margin: 0px auto;
+    padding: 5px;
+
+
+
+ 
+}
+
+#orange{
+
+    width: 90px;
+    height: 90px;
+    background: rgb(196, 128, 4);
+    border: 3px solid #C48004;
+    border-radius: 50%;
+    margin: 12px auto;
+    padding: 5px;
+
+
+
+ 
+}
+
+
+
+#green{
+
+    width: 90px;
+    height: 90px;
+    background: rgb(1, 99, 1);
+    border: 3px solid #016301;
+
+    border-radius: 50%;
+    margin: 12px auto;
+    padding: 5px;
+
+
+
+ 
+}
+
+.text-box{
+
+    background-image: url(img/chat-bubble-outline_2.svg);
+    margin: 10px 20px;
+  width: 350px;
+    height: 350px;
+    background-repeat: no-repeat;
+    position: absolute;
+    padding: 20px;
+    
+   
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 2em;
+    text-align: center;
+    position: relative;
+   margin-top: 50px;
+   text-shadow: 2px 2px #777777;
+
+   
+    
+}
